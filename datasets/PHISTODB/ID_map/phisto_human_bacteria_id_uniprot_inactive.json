@@ -1,0 +1,1410 @@
+[
+    {
+        "from": "Q8CK76",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CK76",
+            "uniProtkbId": "Q8CK76_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E576E"
+            }
+        }
+    },
+    {
+        "from": "Q8D1A1",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D1A1",
+            "uniProtkbId": "Q8D1A1_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E43B6"
+            }
+        }
+    },
+    {
+        "from": "Q8D0N2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0N2",
+            "uniProtkbId": "Q8D0N2_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4490"
+            }
+        }
+    },
+    {
+        "from": "Q8CKX2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKX2",
+            "uniProtkbId": "Q8CKX2_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5678"
+            }
+        }
+    },
+    {
+        "from": "Q8CZT3",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0H2W955",
+            "uniProtkbId": "A0A0H2W955_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E45BB"
+            }
+        }
+    },
+    {
+        "from": "Q8CL08",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CL08",
+            "uniProtkbId": "Q8CL08_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5654"
+            }
+        }
+    },
+    {
+        "from": "Q8CKN3",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKN3",
+            "uniProtkbId": "Q8CKN3_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E56D1"
+            }
+        }
+    },
+    {
+        "from": "Q8D0I9",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0I9",
+            "uniProtkbId": "Q8D0I9_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E44BB"
+            }
+        }
+    },
+    {
+        "from": "Q9R8C5",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A5K1VD91",
+            "uniProtkbId": "A0A5K1VD91_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000B0037"
+            }
+        }
+    },
+    {
+        "from": "Q8D0M7",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4BP80",
+            "uniProtkbId": "A0A3N4BP80_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4495"
+            }
+        }
+    },
+    {
+        "from": "Q8CL55",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CL55",
+            "uniProtkbId": "Q8CL55_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5625"
+            }
+        }
+    },
+    {
+        "from": "Q8D1G2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B0U4",
+            "uniProtkbId": "A0A3N4B0U4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E437A"
+            }
+        }
+    },
+    {
+        "from": "Q8D0P4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0H2W3M9",
+            "uniProtkbId": "A0A0H2W3M9_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4484"
+            }
+        }
+    },
+    {
+        "from": "Q8CZL4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4BBG2",
+            "uniProtkbId": "A0A3N4BBG2_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4600"
+            }
+        }
+    },
+    {
+        "from": "Q8CLM4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B0T7",
+            "uniProtkbId": "A0A3N4B0T7_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E557C"
+            }
+        }
+    },
+    {
+        "from": "Q8D1F7",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4AXC4",
+            "uniProtkbId": "A0A3N4AXC4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E437F"
+            }
+        }
+    },
+    {
+        "from": "Q8D169",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D169",
+            "uniProtkbId": "Q8D169_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E43D6"
+            }
+        }
+    },
+    {
+        "from": "Q8D101",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D101",
+            "uniProtkbId": "Q8D101_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4419"
+            }
+        }
+    },
+    {
+        "from": "Q8D0H5",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0H5",
+            "uniProtkbId": "Q8D0H5_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E44C9"
+            }
+        }
+    },
+    {
+        "from": "Q8CWH9",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CWH9",
+            "uniProtkbId": "Q8CWH9_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E496A"
+            }
+        }
+    },
+    {
+        "from": "Q8D015",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D015",
+            "uniProtkbId": "Q8D015_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4569"
+            }
+        }
+    },
+    {
+        "from": "Q8CLV2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CLV2",
+            "uniProtkbId": "Q8CLV2_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E552E"
+            }
+        }
+    },
+    {
+        "from": "Q8CKB6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKB6",
+            "uniProtkbId": "Q8CKB6_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5746"
+            }
+        }
+    },
+    {
+        "from": "Q8D1E7",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2S9PJQ7",
+            "uniProtkbId": "A0A2S9PJQ7_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4389"
+            }
+        }
+    },
+    {
+        "from": "Q8CL86",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CL86",
+            "uniProtkbId": "Q8CL86_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5606"
+            }
+        }
+    },
+    {
+        "from": "Q8CKM2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKM2",
+            "uniProtkbId": "Q8CKM2_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E56DC"
+            }
+        }
+    },
+    {
+        "from": "Q8CKN5",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B4I5",
+            "uniProtkbId": "A0A3N4B4I5_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E56CF"
+            }
+        }
+    },
+    {
+        "from": "Q8CL35",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B538",
+            "uniProtkbId": "A0A3N4B538_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5639"
+            }
+        }
+    },
+    {
+        "from": "Q8D1E3",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D1E3",
+            "uniProtkbId": "Q8D1E3_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E438D"
+            }
+        }
+    },
+    {
+        "from": "Q8CLK2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2U2GX49",
+            "uniProtkbId": "A0A2U2GX49_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5592"
+            }
+        }
+    },
+    {
+        "from": "Q8CKJ5",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2U2GYG9",
+            "uniProtkbId": "A0A2U2GYG9_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E56F7"
+            }
+        }
+    },
+    {
+        "from": "Q8CKX1",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKX1",
+            "uniProtkbId": "Q8CKX1_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5679"
+            }
+        }
+    },
+    {
+        "from": "Q8D1I7",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2U2H2U6",
+            "uniProtkbId": "A0A2U2H2U6_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4361"
+            }
+        }
+    },
+    {
+        "from": "Q8D191",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D191",
+            "uniProtkbId": "Q8D191_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E43C0"
+            }
+        }
+    },
+    {
+        "from": "Q74YF9",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4BMU9",
+            "uniProtkbId": "A0A3N4BMU9_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000B02C2"
+            }
+        }
+    },
+    {
+        "from": "Q8D0K4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0K4",
+            "uniProtkbId": "Q8D0K4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E44AC"
+            }
+        }
+    },
+    {
+        "from": "Q8D0Z4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0Z4",
+            "uniProtkbId": "Q8D0Z4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4420"
+            }
+        }
+    },
+    {
+        "from": "Q8CKD5",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0H2W961",
+            "uniProtkbId": "A0A0H2W961_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5733"
+            }
+        }
+    },
+    {
+        "from": "Q8CLT1",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CLT1",
+            "uniProtkbId": "Q8CLT1_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5543"
+            }
+        }
+    },
+    {
+        "from": "Q8D1N0",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D1N0",
+            "uniProtkbId": "Q8D1N0_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4336"
+            }
+        }
+    },
+    {
+        "from": "Q8CKF4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKF4",
+            "uniProtkbId": "Q8CKF4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5720"
+            }
+        }
+    },
+    {
+        "from": "Q8CZT1",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CZT1",
+            "uniProtkbId": "Q8CZT1_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E45BD"
+            }
+        }
+    },
+    {
+        "from": "Q8D0A3",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B5N8",
+            "uniProtkbId": "A0A3N4B5N8_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4511"
+            }
+        }
+    },
+    {
+        "from": "Q8CKH6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKH6",
+            "uniProtkbId": "Q8CKH6_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E570A"
+            }
+        }
+    },
+    {
+        "from": "Q8D0X3",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0H2W7F6",
+            "uniProtkbId": "A0A0H2W7F6_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4435"
+            }
+        }
+    },
+    {
+        "from": "Q8D0G8",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0H2W430",
+            "uniProtkbId": "A0A0H2W430_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E44D0"
+            }
+        }
+    },
+    {
+        "from": "Q8CKY9",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKY9",
+            "uniProtkbId": "Q8CKY9_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5667"
+            }
+        }
+    },
+    {
+        "from": "Q8D179",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D179",
+            "uniProtkbId": "Q8D179_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E43CC"
+            }
+        }
+    },
+    {
+        "from": "Q8D0B6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0B6",
+            "uniProtkbId": "Q8D0B6_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4504"
+            }
+        }
+    },
+    {
+        "from": "Q8D116",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D116",
+            "uniProtkbId": "Q8D116_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E440A"
+            }
+        }
+    },
+    {
+        "from": "Q8CLA8",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B044",
+            "uniProtkbId": "A0A3N4B044_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E55F0"
+            }
+        }
+    },
+    {
+        "from": "Q8D0E2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B163",
+            "uniProtkbId": "A0A3N4B163_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E44EA"
+            }
+        }
+    },
+    {
+        "from": "Q8CZT4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CZT4",
+            "uniProtkbId": "Q8CZT4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E45BA"
+            }
+        }
+    },
+    {
+        "from": "Q8CZT2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CZT2",
+            "uniProtkbId": "Q8CZT2_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E45BC"
+            }
+        }
+    },
+    {
+        "from": "Q8D1J3",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D1J3",
+            "uniProtkbId": "Q8D1J3_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E435B"
+            }
+        }
+    },
+    {
+        "from": "Q8D1P7",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0H2W9H5",
+            "uniProtkbId": "A0A0H2W9H5_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4325"
+            }
+        }
+    },
+    {
+        "from": "Q8D133",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D133",
+            "uniProtkbId": "Q8D133_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E43F9"
+            }
+        }
+    },
+    {
+        "from": "Q8D0X0",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2U2H232",
+            "uniProtkbId": "A0A2U2H232_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4438"
+            }
+        }
+    },
+    {
+        "from": "Q8D0E4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0E4",
+            "uniProtkbId": "Q8D0E4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E44E8"
+            }
+        }
+    },
+    {
+        "from": "Q8D100",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B1N2",
+            "uniProtkbId": "A0A3N4B1N2_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E441A"
+            }
+        }
+    },
+    {
+        "from": "Q8CKY6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2S9PK33",
+            "uniProtkbId": "A0A2S9PK33_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E566A"
+            }
+        }
+    },
+    {
+        "from": "Q74YL6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0H2W1W0",
+            "uniProtkbId": "A0A0H2W1W0_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000B66A9"
+            }
+        }
+    },
+    {
+        "from": "Q8D0Z3",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0Z3",
+            "uniProtkbId": "Q8D0Z3_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4421"
+            }
+        }
+    },
+    {
+        "from": "Q8CZY5",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4B6S5",
+            "uniProtkbId": "A0A3N4B6S5_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4587"
+            }
+        }
+    },
+    {
+        "from": "Q8CL30",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2U2H0W7",
+            "uniProtkbId": "A0A2U2H0W7_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E563E"
+            }
+        }
+    },
+    {
+        "from": "Q8CKH7",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CKH7",
+            "uniProtkbId": "Q8CKH7_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5709"
+            }
+        }
+    },
+    {
+        "from": "Q8CZW8",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A2U2GZB1",
+            "uniProtkbId": "A0A2U2GZB1_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4598"
+            }
+        }
+    },
+    {
+        "from": "Q8D070",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D070",
+            "uniProtkbId": "Q8D070_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4532"
+            }
+        }
+    },
+    {
+        "from": "Q8CLQ9",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A3N4BB64",
+            "uniProtkbId": "A0A3N4BB64_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E5559"
+            }
+        }
+    },
+    {
+        "from": "Q8D1E0",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D1E0",
+            "uniProtkbId": "Q8D1E0_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E4390"
+            }
+        }
+    },
+    {
+        "from": "Q8D0H0",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8D0H0",
+            "uniProtkbId": "Q8D0H0_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E44CE"
+            }
+        }
+    },
+    {
+        "from": "Q8CWH4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q8CWH4",
+            "uniProtkbId": "Q8CWH4_YERPE",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00000E496F"
+            }
+        }
+    },
+    {
+        "from": "Q81TB0",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q81TB0",
+            "uniProtkbId": "Q81TB0_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00001912D7"
+            }
+        }
+    },
+    {
+        "from": "Q81RC8",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q81RC8",
+            "uniProtkbId": "Q81RC8_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0000166C6A"
+            }
+        }
+    },
+    {
+        "from": "Q81KY6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q81KY6",
+            "uniProtkbId": "Q81KY6_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00001917A3"
+            }
+        }
+    },
+    {
+        "from": "Q81JM6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q81JM6",
+            "uniProtkbId": "Q81JM6_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0000166459"
+            }
+        }
+    },
+    {
+        "from": "Q81JP7",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "Q81JP7",
+            "uniProtkbId": "Q81JP7_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0000166442"
+            }
+        }
+    },
+    {
+        "from": "A0A0F7RI40",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0F7RI40",
+            "uniProtkbId": "A0A0F7RI40_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0000166C6F"
+            }
+        }
+    },
+    {
+        "from": "A0A0F7RG58",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0F7RG58",
+            "uniProtkbId": "A0A0F7RG58_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI000016718C"
+            }
+        }
+    },
+    {
+        "from": "A0A0F7RDC0",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0F7RDC0",
+            "uniProtkbId": "A0A0F7RDC0_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0000167443"
+            }
+        }
+    },
+    {
+        "from": "A0A0F7RG28",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A0F7RG28",
+            "uniProtkbId": "A0A0F7RG28_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00003B2754"
+            }
+        }
+    },
+    {
+        "from": "A0A1A9IFF4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A1A9IFF4",
+            "uniProtkbId": "A0A1A9IFF4_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0001633D4D"
+            }
+        }
+    },
+    {
+        "from": "A0A1A9IJH2",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A1A9IJH2",
+            "uniProtkbId": "A0A1A9IJH2_BACAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00003B276D"
+            }
+        }
+    },
+    {
+        "from": "A0A024R4Q5",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A024R4Q5",
+            "uniProtkbId": "A0A024R4Q5_HUMAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI000006CFD4"
+            }
+        }
+    },
+    {
+        "from": "D3QNI8",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "D3QNI8",
+            "uniProtkbId": "D3QNI8_ECOCB",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI00017A5803"
+            }
+        }
+    },
+    {
+        "from": "D5VB34",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "D5VB34",
+            "uniProtkbId": "D5VB34_MORCB",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0001D265FC"
+            }
+        }
+    },
+    {
+        "from": "A0A024RAE4",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "A0A024RAE4",
+            "uniProtkbId": "A0A024RAE4_HUMAN",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant sequence"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0000000356"
+            }
+        }
+    },
+    {
+        "from": "E1X6C6",
+        "to": {
+            "entryType": "Inactive",
+            "primaryAccession": "E1X6C6",
+            "uniProtkbId": "E1X6C6_HAEI1",
+            "annotationScore": 0.0,
+            "inactiveReason": {
+                "inactiveReasonType": "DELETED",
+                "deletedReason": "Redundant proteome"
+            },
+            "extraAttributes": {
+                "uniParcId": "UPI0001A65FE3"
+            }
+        }
+    }
+]

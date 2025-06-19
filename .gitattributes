@@ -1,0 +1,14 @@
+datasets/HPIDB3/ID_map/hpidb3_bacteria_id_uniprot_active.json filter=lfs diff=lfs merge=lfs -text
+datasets/PHISTODB/ID_map/phisto_human_bacteria_id_uniprot_active_tax_clean.json filter=lfs diff=lfs merge=lfs -text
+datasets/PHISTODB/ID_map/phisto_human_bacteria_id_uniprot_active.json filter=lfs diff=lfs merge=lfs -text
+analysis/MMseqs2/tmp/5096153543528636614/taxonomy/nodes.dmp filter=lfs diff=lfs merge=lfs -text
+analysis/ppi_graph/hpidb3_human_bacteria_id_uniprot_final.json filter=lfs diff=lfs merge=lfs -text
+analysis/ppi_graph/phisto_human_bacteria_id_uniprot_final.json filter=lfs diff=lfs merge=lfs -text
+analysis/MMseqs2/swissprot_h filter=lfs diff=lfs merge=lfs -text
+analysis/MMseqs2/swissprot_taxonomy filter=lfs diff=lfs merge=lfs -text
+analysis/MMseqs2/swissprot filter=lfs diff=lfs merge=lfs -text
+datasets/Merged/merged_clustered_ids_file.json filter=lfs diff=lfs merge=lfs -text
+datasets/PHISTODB/ID_map/phisto_human_bacteria_id_uniprot.json filter=lfs diff=lfs merge=lfs -text
+datasets/HPIDB3/ID_map/hpidb3_human_bacteria_id_uniprot_active_tax_clean.json filter=lfs diff=lfs merge=lfs -text
+analysis/MMseqs2/tmp/5096153543528636614/taxonomy/names.dmp filter=lfs diff=lfs merge=lfs -text
+datasets/HPIDB3/ID_map/hpidb3_bacteria_id_uniprot.json filter=lfs diff=lfs merge=lfs -text
